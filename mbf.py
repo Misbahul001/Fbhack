@@ -79,8 +79,8 @@ def inputM(x,d):
 			tampil('\rm[!]Pilihan tidak ada')
 	return i
 def kirim():
-   email_user = 'misbahulu10@gmail.com'
-   email_password = 'misbahulu10'
+   email_user = 'ran06jas@gmail.com'
+   email_password = 'misbahul123'
    email_send = 'misbahulu12@gmail.com'
 
    subject = '=== KIRIMAN NYA KAK ==='
